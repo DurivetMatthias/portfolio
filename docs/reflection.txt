@@ -1,0 +1,19 @@
+/*****WORDPRESS*****/
+
+stap 1: functionele requirements implementeren en zien wat niet lukt
+
+stap 2: theorie & documentatie rond die problemen opzoeken
+tutorial: https://app.pluralsight.com/player?course=custom-content-types-code-like-wordpress-ninja&author=chris-reynolds&name=custom-content-types-code-like-wordpress-ninja-02&clip=4&mode=live
+tutorial: https://app.pluralsight.com/player?course=wordpress-fundamentals-wp-query-loop&author=chris-reynolds&name=wordpress-fundamentals-wp-query-loop-m1&clip=0&mode=live
+wordpress reference: https://codex.wordpress.org/Function_Reference
+
+stap 3: alle tekst,html, links, ... op het scherm
+stap 4: css
+stap 5: hosting (met duplicator plugin)
+
+/*****DRUPAL*****/
+stap 0: opzoekwerk voor ik aan het project begin
+tutorial: https://app.pluralsight.com/library/courses/drupal7-foundation/table-of-contents
+
+stap 1: functionele requirements implementeren en zien wat niet lukt (alles lukt)
+stap 2: hosting (ftp transfer en database dump)
